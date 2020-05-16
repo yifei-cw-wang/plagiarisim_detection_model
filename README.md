@@ -4,7 +4,7 @@ In this project, a plagiarism detector is built that examines a text file and pe
 
 This project will be broken down into three main notebooks:
 
-## Notebook 1: Data Exploration
+### Notebook 1: Data Exploration
 
 Load in the corpus of plagiarism text data.
 Explore the existing data features and the data distribution.
